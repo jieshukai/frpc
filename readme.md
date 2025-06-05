@@ -1,5 +1,5 @@
 ## frpc for install 
 
 ```shell
-go install https://github.com/jieshukai/frpc@latest
+go install github.com/jieshukai/frpc@latest
 ```
